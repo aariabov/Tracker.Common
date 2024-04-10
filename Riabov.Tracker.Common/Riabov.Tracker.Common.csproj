@@ -5,9 +5,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Authors>Riabov Andrei</Authors>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageReleaseNotes>добавил расширение для регистрации AddJwtBearer</PackageReleaseNotes>
+        <PackageReleaseNotes>добавил сервис кеширования</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
