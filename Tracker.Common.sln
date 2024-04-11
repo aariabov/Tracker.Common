@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riabov.Tracker.Common", "Riabov.Tracker.Common\Riabov.Tracker.Common.csproj", "{2D06AD69-10F1-493D-8B72-FBAB99AE7185}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Common.UnitTests", "Tracker.Common.UnitTests\Tracker.Common.UnitTests.csproj", "{F44BB7F9-57FC-4648-A560-76A0EEA9644C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2D06AD69-10F1-493D-8B72-FBAB99AE7185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D06AD69-10F1-493D-8B72-FBAB99AE7185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D06AD69-10F1-493D-8B72-FBAB99AE7185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44BB7F9-57FC-4648-A560-76A0EEA9644C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44BB7F9-57FC-4648-A560-76A0EEA9644C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44BB7F9-57FC-4648-A560-76A0EEA9644C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44BB7F9-57FC-4648-A560-76A0EEA9644C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
